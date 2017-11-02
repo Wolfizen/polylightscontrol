@@ -1,7 +1,7 @@
 # The Polytechnic - Lights Control
 
-Rensselaer Polytechnic Institute has a campus newspaper named, "The Polytechnic."
-It's office in the Student Union has an RGB light fixture on the window.
+Rensselaer Polytechnic Institute has a campus newspaper named "The Polytechnic."
+Its office in the Student Union has an RGB light fixture on the window.
 This fixture is controllable via a public API, and this program automates requests.
 
 ## Using this program
